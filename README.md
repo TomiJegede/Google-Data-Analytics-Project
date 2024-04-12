@@ -3,7 +3,8 @@
 ## Project Overview
 
 This repository contains my Google Data Analytics Certification Capstone project, focusing on analyzing data for Cyclistic, a bike share company. 
-The project aims to gain insights into ridership patterns, preferences, and behavior among Cyclistic’s riders.
+The project aims to gain insights into ridership patterns, preferences, and behavior among Cyclistic’s riders. The project used 12 datasets each corresponding to the months in 2023.
+The dataset used can be accessed from https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ## Tools and Techniques
 
